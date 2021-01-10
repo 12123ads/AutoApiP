@@ -1,5 +1,5 @@
 # AutoApiP
-AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApiP
+AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApiP.
 
 ## 置顶 ##
 * **不保证续期**
